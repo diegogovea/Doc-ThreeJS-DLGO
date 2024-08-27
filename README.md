@@ -4,5 +4,5 @@ In this repository, I will carry out an introductory project with the Three.js l
 
 
 > [!NOTE]
-> The rest of the files in this project cannot be uploaded because of it's lenght, but the main thing to consider here, are the INDEX file, and the files on SRC folder.
+> The rest of the files in this project cannot be uploaded becaudfdsse of it's lenght, but the main thing to consider here, are the INDEX file, and the files on SRC folder.
 
